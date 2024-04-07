@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002Fcollection\u002F[chain]\u002F[contract]","\u002Fcollection\u002F[chain]\u002F[contract]\u002F[id]","\u002Fprofile\u002F[address]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
